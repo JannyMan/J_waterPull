@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+ul li{
+    /*padding:30px 10px 100px 10px;*/
+    background: Cyan;
+}
+ul li img{
+    width: 200px;
+    height: auto;
+}
